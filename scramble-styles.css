@@ -10,6 +10,8 @@ body {
   padding: 20px;
   border-radius: 15px;
   box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+  display: flex;
+  flex-direction: column;
 }
 
 #scrambled-word {
@@ -52,6 +54,7 @@ button {
   border-radius: 5px;
   cursor: pointer;
   font-size: 1.2em;
+  margin-bottom: .5rem;
 }
 
 button:hover {
