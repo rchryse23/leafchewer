@@ -1,0 +1,74 @@
+
+body {
+    background-color: #f0f8ff;
+    font-family: 'Comic Sans MS', sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    margin: 5% auto;
+    width: 80%;
+}
+
+h1 {
+    color: #4a90e2;
+    font-size: 3rem;
+    margin-bottom: 20px;
+}
+
+#sentence-display {
+    font-size: 2rem;
+    margin: 20px 0;
+}
+
+#game-area {
+    display: none;
+}
+
+.answer-btn {
+    font-size: 1.5rem;
+    padding: 15px 30px;
+    margin: 10px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+#narration-btn {
+    background-color: #87cefa;
+}
+
+#enumeration-btn {
+    background-color: #98fb98;
+}
+
+.answer-btn:hover {
+    transform: scale(1.1);
+}
+
+.control-btn {
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-size: 1.5rem;
+    background-color: #ffd700;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+#result-area {
+    display: none;
+    margin-top: 20px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    font-size: 1.5rem;
+    margin: 5px 0;
+}
