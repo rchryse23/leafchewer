@@ -2,6 +2,9 @@ body {
   text-align: center;
   background-color: #ffebcd;
 }
+body{
+  font-family: inherit;
+}
 
 .sentence-box {
   font-size: 18px;
