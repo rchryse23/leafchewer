@@ -6,7 +6,7 @@ let mugGameCount = 0;
 // Function to load JSON data from the hosted file
 async function loadSentencesFromJson() {
   try {
-    const response = await fetch('https://rchryse23.github.io/leafchewer/sentences_200.json'); // Replace with your actual GitHub URL
+    const response = await fetch('https://raw.githubusercontent.com/yourusername/yourrepo/main/sentences_200.json'); // Replace with your actual GitHub URL
     const sentences = await response.json();
     return sentences;
   } catch (error) {
@@ -57,15 +57,21 @@ function loadSentence() {
 // Function to trigger the mug-filling game
 function startMugGame() {
   document.querySelector('.mug-game').style.display = 'block'; // Show the mug game section
-  // Implement mug-filling game logic here
+  fillMug();
+}
+
+// Function to simulate mug filling
+function fillMug() {
+  const mugFill = document.querySelector('.mug-fill');
+  mugFill.style.height = "100%"; // Fills the mug
 }
 
 // Function to handle completion of the mug game
-function completeMugGame() {
+document.querySelector('.complete-mug-game').addEventListener('click', function() {
   document.querySelector('.mug-game').style.display = 'none'; // Hide the mug game
   mugGameCount++;
   loadSentence();
-}
+});
 
 // Handle emoji selection
 document.addEventListener('click', function(event) {
@@ -84,19 +90,22 @@ document.addEventListener('click', function(event) {
 
       if (correctAnswers % 2 === 0) {
         startMugGame(); // Trigger the mug game every 2 correct answers
+      } else {
+        currentSentenceIndex++;
+        loadSentence();
       }
     } else {
       feedback.textContent = "Wrong, moving to the next sentence.";
+      currentSentenceIndex++;
+      loadSentence(); // Proceed to the next sentence even if the answer is wrong
     }
-    
-    currentSentenceIndex++;
-    loadSentence(); // Proceed to the next sentence even if the answer is wrong
   }
 });
 
 // Show final result
 function showFinalResult() {
   const finalScore = sessionStorage.getItem('score');
+  document.querySelector('.result').style.display = 'block';
   document.querySelector('.result').innerHTML = `
     <h2>Game Over!</h2>
     <p>Your final score is: ${finalScore}</p>
