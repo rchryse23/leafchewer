@@ -40,6 +40,7 @@ body {
   margin: 20px 0;
   border: 5px solid #fff;
   border-radius: 15px;
+  margin: auto;
 }
 
 #timer {
