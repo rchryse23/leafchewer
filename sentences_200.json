@@ -1,0 +1,1602 @@
+[
+    {
+        "text": "Anna is excited to open her gifts. (variation 1)",
+        "correct": "\ud83d\ude0a",
+        "incorrect": [
+            "\ud83d\ude10",
+            "\ud83d\ude22"
+        ]
+    },
+    {
+        "text": "Tom feels sad because he lost his toy. (variation 1)",
+        "correct": "\ud83d\ude22",
+        "incorrect": [
+            "\ud83d\ude0a",
+            "\ud83d\ude10"
+        ]
+    },
+    {
+        "text": "The children were thrilled to play in the park all afternoon. (variation 1)",
+        "correct": "\ud83d\ude0a",
+        "incorrect": [
+            "\ud83d\ude10",
+            "\ud83d\ude22"
+        ]
+    },
+    {
+        "text": "Susan was disappointed when her favorite book was out of stock. (variation 1)",
+        "correct": "\ud83d\ude22",
+        "incorrect": [
+            "\ud83d\ude20",
+            "\ud83d\ude0a"
+        ]
+    },
+    {
+        "text": "David\u2019s face lit up with joy as he received the promotion at work. (variation 1)",
+        "correct": "\ud83d\ude0a",
+        "incorrect": [
+            "\ud83d\ude20",
+            "\ud83d\ude10"
+        ]
+    },
+    {
+        "text": "Rachel was nervous about giving her first presentation at the conference. (variation 1)",
+        "correct": "\ud83d\ude10",
+        "incorrect": [
+            "\ud83d\ude0a",
+            "\ud83d\ude22"
+        ]
+    },
+    {
+        "text": "John smiled, but there was a hint of sadness in his eyes as he said goodbye. (variation 1)",
+        "correct": "\ud83d\ude22",
+        "incorrect": [
+            "\ud83d\ude0a",
+            "\ud83d\ude10"
+        ]
+    },
+    {
+        "text": "The team was exhausted but relieved after winning the final game. (variation 1)",
+        "correct": "\ud83d\ude0a",
+        "incorrect": [
+            "\ud83d\ude10",
+            "\ud83d\ude22"
+        ]
+    },
+    {
+        "text": "Emily\u2019s laughter masked her deep sense of loneliness at the party. (variation 1)",
+        "correct": "\ud83d\ude22",
+        "incorrect": [
+            "\ud83d\ude0a",
+            "\ud83d\ude10"
+        ]
+    },
+    {
+        "text": "The artist looked at his masterpiece with pride, though he felt something was still missing. (variation 1)",
+        "correct": "\ud83d\ude10",
+        "incorrect": [
+            "\ud83d\ude0a",
+            "\ud83d\ude20"
+        ]
+    },
+    {
+        "text": "Anna is excited to open her gifts. (variation 2)",
+        "correct": "\ud83d\ude0a",
+        "incorrect": [
+            "\ud83d\ude10",
+            "\ud83d\ude22"
+        ]
+    },
+    {
+        "text": "Tom feels sad because he lost his toy. (variation 2)",
+        "correct": "\ud83d\ude22",
+        "incorrect": [
+            "\ud83d\ude0a",
+            "\ud83d\ude10"
+        ]
+    },
+    {
+        "text": "The children were thrilled to play in the park all afternoon. (variation 2)",
+        "correct": "\ud83d\ude0a",
+        "incorrect": [
+            "\ud83d\ude10",
+            "\ud83d\ude22"
+        ]
+    },
+    {
+        "text": "Susan was disappointed when her favorite book was out of stock. (variation 2)",
+        "correct": "\ud83d\ude22",
+        "incorrect": [
+            "\ud83d\ude20",
+            "\ud83d\ude0a"
+        ]
+    },
+    {
+        "text": "David\u2019s face lit up with joy as he received the promotion at work. (variation 2)",
+        "correct": "\ud83d\ude0a",
+        "incorrect": [
+            "\ud83d\ude20",
+            "\ud83d\ude10"
+        ]
+    },
+    {
+        "text": "Rachel was nervous about giving her first presentation at the conference. (variation 2)",
+        "correct": "\ud83d\ude10",
+        "incorrect": [
+            "\ud83d\ude0a",
+            "\ud83d\ude22"
+        ]
+    },
+    {
+        "text": "John smiled, but there was a hint of sadness in his eyes as he said goodbye. (variation 2)",
+        "correct": "\ud83d\ude22",
+        "incorrect": [
+            "\ud83d\ude0a",
+            "\ud83d\ude10"
+        ]
+    },
+    {
+        "text": "The team was exhausted but relieved after winning the final game. (variation 2)",
+        "correct": "\ud83d\ude0a",
+        "incorrect": [
+            "\ud83d\ude10",
+            "\ud83d\ude22"
+        ]
+    },
+    {
+        "text": "Emily\u2019s laughter masked her deep sense of loneliness at the party. (variation 2)",
+        "correct": "\ud83d\ude22",
+        "incorrect": [
+            "\ud83d\ude0a",
+            "\ud83d\ude10"
+        ]
+    },
+    {
+        "text": "The artist looked at his masterpiece with pride, though he felt something was still missing. (variation 2)",
+        "correct": "\ud83d\ude10",
+        "incorrect": [
+            "\ud83d\ude0a",
+            "\ud83d\ude20"
+        ]
+    },
+    {
+        "text": "Anna is excited to open her gifts. (variation 3)",
+        "correct": "\ud83d\ude0a",
+        "incorrect": [
+            "\ud83d\ude10",
+            "\ud83d\ude22"
+        ]
+    },
+    {
+        "text": "Tom feels sad because he lost his toy. (variation 3)",
+        "correct": "\ud83d\ude22",
+        "incorrect": [
+            "\ud83d\ude0a",
+            "\ud83d\ude10"
+        ]
+    },
+    {
+        "text": "The children were thrilled to play in the park all afternoon. (variation 3)",
+        "correct": "\ud83d\ude0a",
+        "incorrect": [
+            "\ud83d\ude10",
+            "\ud83d\ude22"
+        ]
+    },
+    {
+        "text": "Susan was disappointed when her favorite book was out of stock. (variation 3)",
+        "correct": "\ud83d\ude22",
+        "incorrect": [
+            "\ud83d\ude20",
+            "\ud83d\ude0a"
+        ]
+    },
+    {
+        "text": "David\u2019s face lit up with joy as he received the promotion at work. (variation 3)",
+        "correct": "\ud83d\ude0a",
+        "incorrect": [
+            "\ud83d\ude20",
+            "\ud83d\ude10"
+        ]
+    },
+    {
+        "text": "Rachel was nervous about giving her first presentation at the conference. (variation 3)",
+        "correct": "\ud83d\ude10",
+        "incorrect": [
+            "\ud83d\ude0a",
+            "\ud83d\ude22"
+        ]
+    },
+    {
+        "text": "John smiled, but there was a hint of sadness in his eyes as he said goodbye. (variation 3)",
+        "correct": "\ud83d\ude22",
+        "incorrect": [
+            "\ud83d\ude0a",
+            "\ud83d\ude10"
+        ]
+    },
+    {
+        "text": "The team was exhausted but relieved after winning the final game. (variation 3)",
+        "correct": "\ud83d\ude0a",
+        "incorrect": [
+            "\ud83d\ude10",
+            "\ud83d\ude22"
+        ]
+    },
+    {
+        "text": "Emily\u2019s laughter masked her deep sense of loneliness at the party. (variation 3)",
+        "correct": "\ud83d\ude22",
+        "incorrect": [
+            "\ud83d\ude0a",
+            "\ud83d\ude10"
+        ]
+    },
+    {
+        "text": "The artist looked at his masterpiece with pride, though he felt something was still missing. (variation 3)",
+        "correct": "\ud83d\ude10",
+        "incorrect": [
+            "\ud83d\ude0a",
+            "\ud83d\ude20"
+        ]
+    },
+    {
+        "text": "Anna is excited to open her gifts. (variation 4)",
+        "correct": "\ud83d\ude0a",
+        "incorrect": [
+            "\ud83d\ude10",
+            "\ud83d\ude22"
+        ]
+    },
+    {
+        "text": "Tom feels sad because he lost his toy. (variation 4)",
+        "correct": "\ud83d\ude22",
+        "incorrect": [
+            "\ud83d\ude0a",
+            "\ud83d\ude10"
+        ]
+    },
+    {
+        "text": "The children were thrilled to play in the park all afternoon. (variation 4)",
+        "correct": "\ud83d\ude0a",
+        "incorrect": [
+            "\ud83d\ude10",
+            "\ud83d\ude22"
+        ]
+    },
+    {
+        "text": "Susan was disappointed when her favorite book was out of stock. (variation 4)",
+        "correct": "\ud83d\ude22",
+        "incorrect": [
+            "\ud83d\ude20",
+            "\ud83d\ude0a"
+        ]
+    },
+    {
+        "text": "David\u2019s face lit up with joy as he received the promotion at work. (variation 4)",
+        "correct": "\ud83d\ude0a",
+        "incorrect": [
+            "\ud83d\ude20",
+            "\ud83d\ude10"
+        ]
+    },
+    {
+        "text": "Rachel was nervous about giving her first presentation at the conference. (variation 4)",
+        "correct": "\ud83d\ude10",
+        "incorrect": [
+            "\ud83d\ude0a",
+            "\ud83d\ude22"
+        ]
+    },
+    {
+        "text": "John smiled, but there was a hint of sadness in his eyes as he said goodbye. (variation 4)",
+        "correct": "\ud83d\ude22",
+        "incorrect": [
+            "\ud83d\ude0a",
+            "\ud83d\ude10"
+        ]
+    },
+    {
+        "text": "The team was exhausted but relieved after winning the final game. (variation 4)",
+        "correct": "\ud83d\ude0a",
+        "incorrect": [
+            "\ud83d\ude10",
+            "\ud83d\ude22"
+        ]
+    },
+    {
+        "text": "Emily\u2019s laughter masked her deep sense of loneliness at the party. (variation 4)",
+        "correct": "\ud83d\ude22",
+        "incorrect": [
+            "\ud83d\ude0a",
+            "\ud83d\ude10"
+        ]
+    },
+    {
+        "text": "The artist looked at his masterpiece with pride, though he felt something was still missing. (variation 4)",
+        "correct": "\ud83d\ude10",
+        "incorrect": [
+            "\ud83d\ude0a",
+            "\ud83d\ude20"
+        ]
+    },
+    {
+        "text": "Anna is excited to open her gifts. (variation 5)",
+        "correct": "\ud83d\ude0a",
+        "incorrect": [
+            "\ud83d\ude10",
+            "\ud83d\ude22"
+        ]
+    },
+    {
+        "text": "Tom feels sad because he lost his toy. (variation 5)",
+        "correct": "\ud83d\ude22",
+        "incorrect": [
+            "\ud83d\ude0a",
+            "\ud83d\ude10"
+        ]
+    },
+    {
+        "text": "The children were thrilled to play in the park all afternoon. (variation 5)",
+        "correct": "\ud83d\ude0a",
+        "incorrect": [
+            "\ud83d\ude10",
+            "\ud83d\ude22"
+        ]
+    },
+    {
+        "text": "Susan was disappointed when her favorite book was out of stock. (variation 5)",
+        "correct": "\ud83d\ude22",
+        "incorrect": [
+            "\ud83d\ude20",
+            "\ud83d\ude0a"
+        ]
+    },
+    {
+        "text": "David\u2019s face lit up with joy as he received the promotion at work. (variation 5)",
+        "correct": "\ud83d\ude0a",
+        "incorrect": [
+            "\ud83d\ude20",
+            "\ud83d\ude10"
+        ]
+    },
+    {
+        "text": "Rachel was nervous about giving her first presentation at the conference. (variation 5)",
+        "correct": "\ud83d\ude10",
+        "incorrect": [
+            "\ud83d\ude0a",
+            "\ud83d\ude22"
+        ]
+    },
+    {
+        "text": "John smiled, but there was a hint of sadness in his eyes as he said goodbye. (variation 5)",
+        "correct": "\ud83d\ude22",
+        "incorrect": [
+            "\ud83d\ude0a",
+            "\ud83d\ude10"
+        ]
+    },
+    {
+        "text": "The team was exhausted but relieved after winning the final game. (variation 5)",
+        "correct": "\ud83d\ude0a",
+        "incorrect": [
+            "\ud83d\ude10",
+            "\ud83d\ude22"
+        ]
+    },
+    {
+        "text": "Emily\u2019s laughter masked her deep sense of loneliness at the party. (variation 5)",
+        "correct": "\ud83d\ude22",
+        "incorrect": [
+            "\ud83d\ude0a",
+            "\ud83d\ude10"
+        ]
+    },
+    {
+        "text": "The artist looked at his masterpiece with pride, though he felt something was still missing. (variation 5)",
+        "correct": "\ud83d\ude10",
+        "incorrect": [
+            "\ud83d\ude0a",
+            "\ud83d\ude20"
+        ]
+    },
+    {
+        "text": "Anna is excited to open her gifts. (variation 6)",
+        "correct": "\ud83d\ude0a",
+        "incorrect": [
+            "\ud83d\ude10",
+            "\ud83d\ude22"
+        ]
+    },
+    {
+        "text": "Tom feels sad because he lost his toy. (variation 6)",
+        "correct": "\ud83d\ude22",
+        "incorrect": [
+            "\ud83d\ude0a",
+            "\ud83d\ude10"
+        ]
+    },
+    {
+        "text": "The children were thrilled to play in the park all afternoon. (variation 6)",
+        "correct": "\ud83d\ude0a",
+        "incorrect": [
+            "\ud83d\ude10",
+            "\ud83d\ude22"
+        ]
+    },
+    {
+        "text": "Susan was disappointed when her favorite book was out of stock. (variation 6)",
+        "correct": "\ud83d\ude22",
+        "incorrect": [
+            "\ud83d\ude20",
+            "\ud83d\ude0a"
+        ]
+    },
+    {
+        "text": "David\u2019s face lit up with joy as he received the promotion at work. (variation 6)",
+        "correct": "\ud83d\ude0a",
+        "incorrect": [
+            "\ud83d\ude20",
+            "\ud83d\ude10"
+        ]
+    },
+    {
+        "text": "Rachel was nervous about giving her first presentation at the conference. (variation 6)",
+        "correct": "\ud83d\ude10",
+        "incorrect": [
+            "\ud83d\ude0a",
+            "\ud83d\ude22"
+        ]
+    },
+    {
+        "text": "John smiled, but there was a hint of sadness in his eyes as he said goodbye. (variation 6)",
+        "correct": "\ud83d\ude22",
+        "incorrect": [
+            "\ud83d\ude0a",
+            "\ud83d\ude10"
+        ]
+    },
+    {
+        "text": "The team was exhausted but relieved after winning the final game. (variation 6)",
+        "correct": "\ud83d\ude0a",
+        "incorrect": [
+            "\ud83d\ude10",
+            "\ud83d\ude22"
+        ]
+    },
+    {
+        "text": "Emily\u2019s laughter masked her deep sense of loneliness at the party. (variation 6)",
+        "correct": "\ud83d\ude22",
+        "incorrect": [
+            "\ud83d\ude0a",
+            "\ud83d\ude10"
+        ]
+    },
+    {
+        "text": "The artist looked at his masterpiece with pride, though he felt something was still missing. (variation 6)",
+        "correct": "\ud83d\ude10",
+        "incorrect": [
+            "\ud83d\ude0a",
+            "\ud83d\ude20"
+        ]
+    },
+    {
+        "text": "Anna is excited to open her gifts. (variation 7)",
+        "correct": "\ud83d\ude0a",
+        "incorrect": [
+            "\ud83d\ude10",
+            "\ud83d\ude22"
+        ]
+    },
+    {
+        "text": "Tom feels sad because he lost his toy. (variation 7)",
+        "correct": "\ud83d\ude22",
+        "incorrect": [
+            "\ud83d\ude0a",
+            "\ud83d\ude10"
+        ]
+    },
+    {
+        "text": "The children were thrilled to play in the park all afternoon. (variation 7)",
+        "correct": "\ud83d\ude0a",
+        "incorrect": [
+            "\ud83d\ude10",
+            "\ud83d\ude22"
+        ]
+    },
+    {
+        "text": "Susan was disappointed when her favorite book was out of stock. (variation 7)",
+        "correct": "\ud83d\ude22",
+        "incorrect": [
+            "\ud83d\ude20",
+            "\ud83d\ude0a"
+        ]
+    },
+    {
+        "text": "David\u2019s face lit up with joy as he received the promotion at work. (variation 7)",
+        "correct": "\ud83d\ude0a",
+        "incorrect": [
+            "\ud83d\ude20",
+            "\ud83d\ude10"
+        ]
+    },
+    {
+        "text": "Rachel was nervous about giving her first presentation at the conference. (variation 7)",
+        "correct": "\ud83d\ude10",
+        "incorrect": [
+            "\ud83d\ude0a",
+            "\ud83d\ude22"
+        ]
+    },
+    {
+        "text": "John smiled, but there was a hint of sadness in his eyes as he said goodbye. (variation 7)",
+        "correct": "\ud83d\ude22",
+        "incorrect": [
+            "\ud83d\ude0a",
+            "\ud83d\ude10"
+        ]
+    },
+    {
+        "text": "The team was exhausted but relieved after winning the final game. (variation 7)",
+        "correct": "\ud83d\ude0a",
+        "incorrect": [
+            "\ud83d\ude10",
+            "\ud83d\ude22"
+        ]
+    },
+    {
+        "text": "Emily\u2019s laughter masked her deep sense of loneliness at the party. (variation 7)",
+        "correct": "\ud83d\ude22",
+        "incorrect": [
+            "\ud83d\ude0a",
+            "\ud83d\ude10"
+        ]
+    },
+    {
+        "text": "The artist looked at his masterpiece with pride, though he felt something was still missing. (variation 7)",
+        "correct": "\ud83d\ude10",
+        "incorrect": [
+            "\ud83d\ude0a",
+            "\ud83d\ude20"
+        ]
+    },
+    {
+        "text": "Anna is excited to open her gifts. (variation 8)",
+        "correct": "\ud83d\ude0a",
+        "incorrect": [
+            "\ud83d\ude10",
+            "\ud83d\ude22"
+        ]
+    },
+    {
+        "text": "Tom feels sad because he lost his toy. (variation 8)",
+        "correct": "\ud83d\ude22",
+        "incorrect": [
+            "\ud83d\ude0a",
+            "\ud83d\ude10"
+        ]
+    },
+    {
+        "text": "The children were thrilled to play in the park all afternoon. (variation 8)",
+        "correct": "\ud83d\ude0a",
+        "incorrect": [
+            "\ud83d\ude10",
+            "\ud83d\ude22"
+        ]
+    },
+    {
+        "text": "Susan was disappointed when her favorite book was out of stock. (variation 8)",
+        "correct": "\ud83d\ude22",
+        "incorrect": [
+            "\ud83d\ude20",
+            "\ud83d\ude0a"
+        ]
+    },
+    {
+        "text": "David\u2019s face lit up with joy as he received the promotion at work. (variation 8)",
+        "correct": "\ud83d\ude0a",
+        "incorrect": [
+            "\ud83d\ude20",
+            "\ud83d\ude10"
+        ]
+    },
+    {
+        "text": "Rachel was nervous about giving her first presentation at the conference. (variation 8)",
+        "correct": "\ud83d\ude10",
+        "incorrect": [
+            "\ud83d\ude0a",
+            "\ud83d\ude22"
+        ]
+    },
+    {
+        "text": "John smiled, but there was a hint of sadness in his eyes as he said goodbye. (variation 8)",
+        "correct": "\ud83d\ude22",
+        "incorrect": [
+            "\ud83d\ude0a",
+            "\ud83d\ude10"
+        ]
+    },
+    {
+        "text": "The team was exhausted but relieved after winning the final game. (variation 8)",
+        "correct": "\ud83d\ude0a",
+        "incorrect": [
+            "\ud83d\ude10",
+            "\ud83d\ude22"
+        ]
+    },
+    {
+        "text": "Emily\u2019s laughter masked her deep sense of loneliness at the party. (variation 8)",
+        "correct": "\ud83d\ude22",
+        "incorrect": [
+            "\ud83d\ude0a",
+            "\ud83d\ude10"
+        ]
+    },
+    {
+        "text": "The artist looked at his masterpiece with pride, though he felt something was still missing. (variation 8)",
+        "correct": "\ud83d\ude10",
+        "incorrect": [
+            "\ud83d\ude0a",
+            "\ud83d\ude20"
+        ]
+    },
+    {
+        "text": "Anna is excited to open her gifts. (variation 9)",
+        "correct": "\ud83d\ude0a",
+        "incorrect": [
+            "\ud83d\ude10",
+            "\ud83d\ude22"
+        ]
+    },
+    {
+        "text": "Tom feels sad because he lost his toy. (variation 9)",
+        "correct": "\ud83d\ude22",
+        "incorrect": [
+            "\ud83d\ude0a",
+            "\ud83d\ude10"
+        ]
+    },
+    {
+        "text": "The children were thrilled to play in the park all afternoon. (variation 9)",
+        "correct": "\ud83d\ude0a",
+        "incorrect": [
+            "\ud83d\ude10",
+            "\ud83d\ude22"
+        ]
+    },
+    {
+        "text": "Susan was disappointed when her favorite book was out of stock. (variation 9)",
+        "correct": "\ud83d\ude22",
+        "incorrect": [
+            "\ud83d\ude20",
+            "\ud83d\ude0a"
+        ]
+    },
+    {
+        "text": "David\u2019s face lit up with joy as he received the promotion at work. (variation 9)",
+        "correct": "\ud83d\ude0a",
+        "incorrect": [
+            "\ud83d\ude20",
+            "\ud83d\ude10"
+        ]
+    },
+    {
+        "text": "Rachel was nervous about giving her first presentation at the conference. (variation 9)",
+        "correct": "\ud83d\ude10",
+        "incorrect": [
+            "\ud83d\ude0a",
+            "\ud83d\ude22"
+        ]
+    },
+    {
+        "text": "John smiled, but there was a hint of sadness in his eyes as he said goodbye. (variation 9)",
+        "correct": "\ud83d\ude22",
+        "incorrect": [
+            "\ud83d\ude0a",
+            "\ud83d\ude10"
+        ]
+    },
+    {
+        "text": "The team was exhausted but relieved after winning the final game. (variation 9)",
+        "correct": "\ud83d\ude0a",
+        "incorrect": [
+            "\ud83d\ude10",
+            "\ud83d\ude22"
+        ]
+    },
+    {
+        "text": "Emily\u2019s laughter masked her deep sense of loneliness at the party. (variation 9)",
+        "correct": "\ud83d\ude22",
+        "incorrect": [
+            "\ud83d\ude0a",
+            "\ud83d\ude10"
+        ]
+    },
+    {
+        "text": "The artist looked at his masterpiece with pride, though he felt something was still missing. (variation 9)",
+        "correct": "\ud83d\ude10",
+        "incorrect": [
+            "\ud83d\ude0a",
+            "\ud83d\ude20"
+        ]
+    },
+    {
+        "text": "Anna is excited to open her gifts. (variation 10)",
+        "correct": "\ud83d\ude0a",
+        "incorrect": [
+            "\ud83d\ude10",
+            "\ud83d\ude22"
+        ]
+    },
+    {
+        "text": "Tom feels sad because he lost his toy. (variation 10)",
+        "correct": "\ud83d\ude22",
+        "incorrect": [
+            "\ud83d\ude0a",
+            "\ud83d\ude10"
+        ]
+    },
+    {
+        "text": "The children were thrilled to play in the park all afternoon. (variation 10)",
+        "correct": "\ud83d\ude0a",
+        "incorrect": [
+            "\ud83d\ude10",
+            "\ud83d\ude22"
+        ]
+    },
+    {
+        "text": "Susan was disappointed when her favorite book was out of stock. (variation 10)",
+        "correct": "\ud83d\ude22",
+        "incorrect": [
+            "\ud83d\ude20",
+            "\ud83d\ude0a"
+        ]
+    },
+    {
+        "text": "David\u2019s face lit up with joy as he received the promotion at work. (variation 10)",
+        "correct": "\ud83d\ude0a",
+        "incorrect": [
+            "\ud83d\ude20",
+            "\ud83d\ude10"
+        ]
+    },
+    {
+        "text": "Rachel was nervous about giving her first presentation at the conference. (variation 10)",
+        "correct": "\ud83d\ude10",
+        "incorrect": [
+            "\ud83d\ude0a",
+            "\ud83d\ude22"
+        ]
+    },
+    {
+        "text": "John smiled, but there was a hint of sadness in his eyes as he said goodbye. (variation 10)",
+        "correct": "\ud83d\ude22",
+        "incorrect": [
+            "\ud83d\ude0a",
+            "\ud83d\ude10"
+        ]
+    },
+    {
+        "text": "The team was exhausted but relieved after winning the final game. (variation 10)",
+        "correct": "\ud83d\ude0a",
+        "incorrect": [
+            "\ud83d\ude10",
+            "\ud83d\ude22"
+        ]
+    },
+    {
+        "text": "Emily\u2019s laughter masked her deep sense of loneliness at the party. (variation 10)",
+        "correct": "\ud83d\ude22",
+        "incorrect": [
+            "\ud83d\ude0a",
+            "\ud83d\ude10"
+        ]
+    },
+    {
+        "text": "The artist looked at his masterpiece with pride, though he felt something was still missing. (variation 10)",
+        "correct": "\ud83d\ude10",
+        "incorrect": [
+            "\ud83d\ude0a",
+            "\ud83d\ude20"
+        ]
+    },
+    {
+        "text": "Anna is excited to open her gifts. (variation 11)",
+        "correct": "\ud83d\ude0a",
+        "incorrect": [
+            "\ud83d\ude10",
+            "\ud83d\ude22"
+        ]
+    },
+    {
+        "text": "Tom feels sad because he lost his toy. (variation 11)",
+        "correct": "\ud83d\ude22",
+        "incorrect": [
+            "\ud83d\ude0a",
+            "\ud83d\ude10"
+        ]
+    },
+    {
+        "text": "The children were thrilled to play in the park all afternoon. (variation 11)",
+        "correct": "\ud83d\ude0a",
+        "incorrect": [
+            "\ud83d\ude10",
+            "\ud83d\ude22"
+        ]
+    },
+    {
+        "text": "Susan was disappointed when her favorite book was out of stock. (variation 11)",
+        "correct": "\ud83d\ude22",
+        "incorrect": [
+            "\ud83d\ude20",
+            "\ud83d\ude0a"
+        ]
+    },
+    {
+        "text": "David\u2019s face lit up with joy as he received the promotion at work. (variation 11)",
+        "correct": "\ud83d\ude0a",
+        "incorrect": [
+            "\ud83d\ude20",
+            "\ud83d\ude10"
+        ]
+    },
+    {
+        "text": "Rachel was nervous about giving her first presentation at the conference. (variation 11)",
+        "correct": "\ud83d\ude10",
+        "incorrect": [
+            "\ud83d\ude0a",
+            "\ud83d\ude22"
+        ]
+    },
+    {
+        "text": "John smiled, but there was a hint of sadness in his eyes as he said goodbye. (variation 11)",
+        "correct": "\ud83d\ude22",
+        "incorrect": [
+            "\ud83d\ude0a",
+            "\ud83d\ude10"
+        ]
+    },
+    {
+        "text": "The team was exhausted but relieved after winning the final game. (variation 11)",
+        "correct": "\ud83d\ude0a",
+        "incorrect": [
+            "\ud83d\ude10",
+            "\ud83d\ude22"
+        ]
+    },
+    {
+        "text": "Emily\u2019s laughter masked her deep sense of loneliness at the party. (variation 11)",
+        "correct": "\ud83d\ude22",
+        "incorrect": [
+            "\ud83d\ude0a",
+            "\ud83d\ude10"
+        ]
+    },
+    {
+        "text": "The artist looked at his masterpiece with pride, though he felt something was still missing. (variation 11)",
+        "correct": "\ud83d\ude10",
+        "incorrect": [
+            "\ud83d\ude0a",
+            "\ud83d\ude20"
+        ]
+    },
+    {
+        "text": "Anna is excited to open her gifts. (variation 12)",
+        "correct": "\ud83d\ude0a",
+        "incorrect": [
+            "\ud83d\ude10",
+            "\ud83d\ude22"
+        ]
+    },
+    {
+        "text": "Tom feels sad because he lost his toy. (variation 12)",
+        "correct": "\ud83d\ude22",
+        "incorrect": [
+            "\ud83d\ude0a",
+            "\ud83d\ude10"
+        ]
+    },
+    {
+        "text": "The children were thrilled to play in the park all afternoon. (variation 12)",
+        "correct": "\ud83d\ude0a",
+        "incorrect": [
+            "\ud83d\ude10",
+            "\ud83d\ude22"
+        ]
+    },
+    {
+        "text": "Susan was disappointed when her favorite book was out of stock. (variation 12)",
+        "correct": "\ud83d\ude22",
+        "incorrect": [
+            "\ud83d\ude20",
+            "\ud83d\ude0a"
+        ]
+    },
+    {
+        "text": "David\u2019s face lit up with joy as he received the promotion at work. (variation 12)",
+        "correct": "\ud83d\ude0a",
+        "incorrect": [
+            "\ud83d\ude20",
+            "\ud83d\ude10"
+        ]
+    },
+    {
+        "text": "Rachel was nervous about giving her first presentation at the conference. (variation 12)",
+        "correct": "\ud83d\ude10",
+        "incorrect": [
+            "\ud83d\ude0a",
+            "\ud83d\ude22"
+        ]
+    },
+    {
+        "text": "John smiled, but there was a hint of sadness in his eyes as he said goodbye. (variation 12)",
+        "correct": "\ud83d\ude22",
+        "incorrect": [
+            "\ud83d\ude0a",
+            "\ud83d\ude10"
+        ]
+    },
+    {
+        "text": "The team was exhausted but relieved after winning the final game. (variation 12)",
+        "correct": "\ud83d\ude0a",
+        "incorrect": [
+            "\ud83d\ude10",
+            "\ud83d\ude22"
+        ]
+    },
+    {
+        "text": "Emily\u2019s laughter masked her deep sense of loneliness at the party. (variation 12)",
+        "correct": "\ud83d\ude22",
+        "incorrect": [
+            "\ud83d\ude0a",
+            "\ud83d\ude10"
+        ]
+    },
+    {
+        "text": "The artist looked at his masterpiece with pride, though he felt something was still missing. (variation 12)",
+        "correct": "\ud83d\ude10",
+        "incorrect": [
+            "\ud83d\ude0a",
+            "\ud83d\ude20"
+        ]
+    },
+    {
+        "text": "Anna is excited to open her gifts. (variation 13)",
+        "correct": "\ud83d\ude0a",
+        "incorrect": [
+            "\ud83d\ude10",
+            "\ud83d\ude22"
+        ]
+    },
+    {
+        "text": "Tom feels sad because he lost his toy. (variation 13)",
+        "correct": "\ud83d\ude22",
+        "incorrect": [
+            "\ud83d\ude0a",
+            "\ud83d\ude10"
+        ]
+    },
+    {
+        "text": "The children were thrilled to play in the park all afternoon. (variation 13)",
+        "correct": "\ud83d\ude0a",
+        "incorrect": [
+            "\ud83d\ude10",
+            "\ud83d\ude22"
+        ]
+    },
+    {
+        "text": "Susan was disappointed when her favorite book was out of stock. (variation 13)",
+        "correct": "\ud83d\ude22",
+        "incorrect": [
+            "\ud83d\ude20",
+            "\ud83d\ude0a"
+        ]
+    },
+    {
+        "text": "David\u2019s face lit up with joy as he received the promotion at work. (variation 13)",
+        "correct": "\ud83d\ude0a",
+        "incorrect": [
+            "\ud83d\ude20",
+            "\ud83d\ude10"
+        ]
+    },
+    {
+        "text": "Rachel was nervous about giving her first presentation at the conference. (variation 13)",
+        "correct": "\ud83d\ude10",
+        "incorrect": [
+            "\ud83d\ude0a",
+            "\ud83d\ude22"
+        ]
+    },
+    {
+        "text": "John smiled, but there was a hint of sadness in his eyes as he said goodbye. (variation 13)",
+        "correct": "\ud83d\ude22",
+        "incorrect": [
+            "\ud83d\ude0a",
+            "\ud83d\ude10"
+        ]
+    },
+    {
+        "text": "The team was exhausted but relieved after winning the final game. (variation 13)",
+        "correct": "\ud83d\ude0a",
+        "incorrect": [
+            "\ud83d\ude10",
+            "\ud83d\ude22"
+        ]
+    },
+    {
+        "text": "Emily\u2019s laughter masked her deep sense of loneliness at the party. (variation 13)",
+        "correct": "\ud83d\ude22",
+        "incorrect": [
+            "\ud83d\ude0a",
+            "\ud83d\ude10"
+        ]
+    },
+    {
+        "text": "The artist looked at his masterpiece with pride, though he felt something was still missing. (variation 13)",
+        "correct": "\ud83d\ude10",
+        "incorrect": [
+            "\ud83d\ude0a",
+            "\ud83d\ude20"
+        ]
+    },
+    {
+        "text": "Anna is excited to open her gifts. (variation 14)",
+        "correct": "\ud83d\ude0a",
+        "incorrect": [
+            "\ud83d\ude10",
+            "\ud83d\ude22"
+        ]
+    },
+    {
+        "text": "Tom feels sad because he lost his toy. (variation 14)",
+        "correct": "\ud83d\ude22",
+        "incorrect": [
+            "\ud83d\ude0a",
+            "\ud83d\ude10"
+        ]
+    },
+    {
+        "text": "The children were thrilled to play in the park all afternoon. (variation 14)",
+        "correct": "\ud83d\ude0a",
+        "incorrect": [
+            "\ud83d\ude10",
+            "\ud83d\ude22"
+        ]
+    },
+    {
+        "text": "Susan was disappointed when her favorite book was out of stock. (variation 14)",
+        "correct": "\ud83d\ude22",
+        "incorrect": [
+            "\ud83d\ude20",
+            "\ud83d\ude0a"
+        ]
+    },
+    {
+        "text": "David\u2019s face lit up with joy as he received the promotion at work. (variation 14)",
+        "correct": "\ud83d\ude0a",
+        "incorrect": [
+            "\ud83d\ude20",
+            "\ud83d\ude10"
+        ]
+    },
+    {
+        "text": "Rachel was nervous about giving her first presentation at the conference. (variation 14)",
+        "correct": "\ud83d\ude10",
+        "incorrect": [
+            "\ud83d\ude0a",
+            "\ud83d\ude22"
+        ]
+    },
+    {
+        "text": "John smiled, but there was a hint of sadness in his eyes as he said goodbye. (variation 14)",
+        "correct": "\ud83d\ude22",
+        "incorrect": [
+            "\ud83d\ude0a",
+            "\ud83d\ude10"
+        ]
+    },
+    {
+        "text": "The team was exhausted but relieved after winning the final game. (variation 14)",
+        "correct": "\ud83d\ude0a",
+        "incorrect": [
+            "\ud83d\ude10",
+            "\ud83d\ude22"
+        ]
+    },
+    {
+        "text": "Emily\u2019s laughter masked her deep sense of loneliness at the party. (variation 14)",
+        "correct": "\ud83d\ude22",
+        "incorrect": [
+            "\ud83d\ude0a",
+            "\ud83d\ude10"
+        ]
+    },
+    {
+        "text": "The artist looked at his masterpiece with pride, though he felt something was still missing. (variation 14)",
+        "correct": "\ud83d\ude10",
+        "incorrect": [
+            "\ud83d\ude0a",
+            "\ud83d\ude20"
+        ]
+    },
+    {
+        "text": "Anna is excited to open her gifts. (variation 15)",
+        "correct": "\ud83d\ude0a",
+        "incorrect": [
+            "\ud83d\ude10",
+            "\ud83d\ude22"
+        ]
+    },
+    {
+        "text": "Tom feels sad because he lost his toy. (variation 15)",
+        "correct": "\ud83d\ude22",
+        "incorrect": [
+            "\ud83d\ude0a",
+            "\ud83d\ude10"
+        ]
+    },
+    {
+        "text": "The children were thrilled to play in the park all afternoon. (variation 15)",
+        "correct": "\ud83d\ude0a",
+        "incorrect": [
+            "\ud83d\ude10",
+            "\ud83d\ude22"
+        ]
+    },
+    {
+        "text": "Susan was disappointed when her favorite book was out of stock. (variation 15)",
+        "correct": "\ud83d\ude22",
+        "incorrect": [
+            "\ud83d\ude20",
+            "\ud83d\ude0a"
+        ]
+    },
+    {
+        "text": "David\u2019s face lit up with joy as he received the promotion at work. (variation 15)",
+        "correct": "\ud83d\ude0a",
+        "incorrect": [
+            "\ud83d\ude20",
+            "\ud83d\ude10"
+        ]
+    },
+    {
+        "text": "Rachel was nervous about giving her first presentation at the conference. (variation 15)",
+        "correct": "\ud83d\ude10",
+        "incorrect": [
+            "\ud83d\ude0a",
+            "\ud83d\ude22"
+        ]
+    },
+    {
+        "text": "John smiled, but there was a hint of sadness in his eyes as he said goodbye. (variation 15)",
+        "correct": "\ud83d\ude22",
+        "incorrect": [
+            "\ud83d\ude0a",
+            "\ud83d\ude10"
+        ]
+    },
+    {
+        "text": "The team was exhausted but relieved after winning the final game. (variation 15)",
+        "correct": "\ud83d\ude0a",
+        "incorrect": [
+            "\ud83d\ude10",
+            "\ud83d\ude22"
+        ]
+    },
+    {
+        "text": "Emily\u2019s laughter masked her deep sense of loneliness at the party. (variation 15)",
+        "correct": "\ud83d\ude22",
+        "incorrect": [
+            "\ud83d\ude0a",
+            "\ud83d\ude10"
+        ]
+    },
+    {
+        "text": "The artist looked at his masterpiece with pride, though he felt something was still missing. (variation 15)",
+        "correct": "\ud83d\ude10",
+        "incorrect": [
+            "\ud83d\ude0a",
+            "\ud83d\ude20"
+        ]
+    },
+    {
+        "text": "Anna is excited to open her gifts. (variation 16)",
+        "correct": "\ud83d\ude0a",
+        "incorrect": [
+            "\ud83d\ude10",
+            "\ud83d\ude22"
+        ]
+    },
+    {
+        "text": "Tom feels sad because he lost his toy. (variation 16)",
+        "correct": "\ud83d\ude22",
+        "incorrect": [
+            "\ud83d\ude0a",
+            "\ud83d\ude10"
+        ]
+    },
+    {
+        "text": "The children were thrilled to play in the park all afternoon. (variation 16)",
+        "correct": "\ud83d\ude0a",
+        "incorrect": [
+            "\ud83d\ude10",
+            "\ud83d\ude22"
+        ]
+    },
+    {
+        "text": "Susan was disappointed when her favorite book was out of stock. (variation 16)",
+        "correct": "\ud83d\ude22",
+        "incorrect": [
+            "\ud83d\ude20",
+            "\ud83d\ude0a"
+        ]
+    },
+    {
+        "text": "David\u2019s face lit up with joy as he received the promotion at work. (variation 16)",
+        "correct": "\ud83d\ude0a",
+        "incorrect": [
+            "\ud83d\ude20",
+            "\ud83d\ude10"
+        ]
+    },
+    {
+        "text": "Rachel was nervous about giving her first presentation at the conference. (variation 16)",
+        "correct": "\ud83d\ude10",
+        "incorrect": [
+            "\ud83d\ude0a",
+            "\ud83d\ude22"
+        ]
+    },
+    {
+        "text": "John smiled, but there was a hint of sadness in his eyes as he said goodbye. (variation 16)",
+        "correct": "\ud83d\ude22",
+        "incorrect": [
+            "\ud83d\ude0a",
+            "\ud83d\ude10"
+        ]
+    },
+    {
+        "text": "The team was exhausted but relieved after winning the final game. (variation 16)",
+        "correct": "\ud83d\ude0a",
+        "incorrect": [
+            "\ud83d\ude10",
+            "\ud83d\ude22"
+        ]
+    },
+    {
+        "text": "Emily\u2019s laughter masked her deep sense of loneliness at the party. (variation 16)",
+        "correct": "\ud83d\ude22",
+        "incorrect": [
+            "\ud83d\ude0a",
+            "\ud83d\ude10"
+        ]
+    },
+    {
+        "text": "The artist looked at his masterpiece with pride, though he felt something was still missing. (variation 16)",
+        "correct": "\ud83d\ude10",
+        "incorrect": [
+            "\ud83d\ude0a",
+            "\ud83d\ude20"
+        ]
+    },
+    {
+        "text": "Anna is excited to open her gifts. (variation 17)",
+        "correct": "\ud83d\ude0a",
+        "incorrect": [
+            "\ud83d\ude10",
+            "\ud83d\ude22"
+        ]
+    },
+    {
+        "text": "Tom feels sad because he lost his toy. (variation 17)",
+        "correct": "\ud83d\ude22",
+        "incorrect": [
+            "\ud83d\ude0a",
+            "\ud83d\ude10"
+        ]
+    },
+    {
+        "text": "The children were thrilled to play in the park all afternoon. (variation 17)",
+        "correct": "\ud83d\ude0a",
+        "incorrect": [
+            "\ud83d\ude10",
+            "\ud83d\ude22"
+        ]
+    },
+    {
+        "text": "Susan was disappointed when her favorite book was out of stock. (variation 17)",
+        "correct": "\ud83d\ude22",
+        "incorrect": [
+            "\ud83d\ude20",
+            "\ud83d\ude0a"
+        ]
+    },
+    {
+        "text": "David\u2019s face lit up with joy as he received the promotion at work. (variation 17)",
+        "correct": "\ud83d\ude0a",
+        "incorrect": [
+            "\ud83d\ude20",
+            "\ud83d\ude10"
+        ]
+    },
+    {
+        "text": "Rachel was nervous about giving her first presentation at the conference. (variation 17)",
+        "correct": "\ud83d\ude10",
+        "incorrect": [
+            "\ud83d\ude0a",
+            "\ud83d\ude22"
+        ]
+    },
+    {
+        "text": "John smiled, but there was a hint of sadness in his eyes as he said goodbye. (variation 17)",
+        "correct": "\ud83d\ude22",
+        "incorrect": [
+            "\ud83d\ude0a",
+            "\ud83d\ude10"
+        ]
+    },
+    {
+        "text": "The team was exhausted but relieved after winning the final game. (variation 17)",
+        "correct": "\ud83d\ude0a",
+        "incorrect": [
+            "\ud83d\ude10",
+            "\ud83d\ude22"
+        ]
+    },
+    {
+        "text": "Emily\u2019s laughter masked her deep sense of loneliness at the party. (variation 17)",
+        "correct": "\ud83d\ude22",
+        "incorrect": [
+            "\ud83d\ude0a",
+            "\ud83d\ude10"
+        ]
+    },
+    {
+        "text": "The artist looked at his masterpiece with pride, though he felt something was still missing. (variation 17)",
+        "correct": "\ud83d\ude10",
+        "incorrect": [
+            "\ud83d\ude0a",
+            "\ud83d\ude20"
+        ]
+    },
+    {
+        "text": "Anna is excited to open her gifts. (variation 18)",
+        "correct": "\ud83d\ude0a",
+        "incorrect": [
+            "\ud83d\ude10",
+            "\ud83d\ude22"
+        ]
+    },
+    {
+        "text": "Tom feels sad because he lost his toy. (variation 18)",
+        "correct": "\ud83d\ude22",
+        "incorrect": [
+            "\ud83d\ude0a",
+            "\ud83d\ude10"
+        ]
+    },
+    {
+        "text": "The children were thrilled to play in the park all afternoon. (variation 18)",
+        "correct": "\ud83d\ude0a",
+        "incorrect": [
+            "\ud83d\ude10",
+            "\ud83d\ude22"
+        ]
+    },
+    {
+        "text": "Susan was disappointed when her favorite book was out of stock. (variation 18)",
+        "correct": "\ud83d\ude22",
+        "incorrect": [
+            "\ud83d\ude20",
+            "\ud83d\ude0a"
+        ]
+    },
+    {
+        "text": "David\u2019s face lit up with joy as he received the promotion at work. (variation 18)",
+        "correct": "\ud83d\ude0a",
+        "incorrect": [
+            "\ud83d\ude20",
+            "\ud83d\ude10"
+        ]
+    },
+    {
+        "text": "Rachel was nervous about giving her first presentation at the conference. (variation 18)",
+        "correct": "\ud83d\ude10",
+        "incorrect": [
+            "\ud83d\ude0a",
+            "\ud83d\ude22"
+        ]
+    },
+    {
+        "text": "John smiled, but there was a hint of sadness in his eyes as he said goodbye. (variation 18)",
+        "correct": "\ud83d\ude22",
+        "incorrect": [
+            "\ud83d\ude0a",
+            "\ud83d\ude10"
+        ]
+    },
+    {
+        "text": "The team was exhausted but relieved after winning the final game. (variation 18)",
+        "correct": "\ud83d\ude0a",
+        "incorrect": [
+            "\ud83d\ude10",
+            "\ud83d\ude22"
+        ]
+    },
+    {
+        "text": "Emily\u2019s laughter masked her deep sense of loneliness at the party. (variation 18)",
+        "correct": "\ud83d\ude22",
+        "incorrect": [
+            "\ud83d\ude0a",
+            "\ud83d\ude10"
+        ]
+    },
+    {
+        "text": "The artist looked at his masterpiece with pride, though he felt something was still missing. (variation 18)",
+        "correct": "\ud83d\ude10",
+        "incorrect": [
+            "\ud83d\ude0a",
+            "\ud83d\ude20"
+        ]
+    },
+    {
+        "text": "Anna is excited to open her gifts. (variation 19)",
+        "correct": "\ud83d\ude0a",
+        "incorrect": [
+            "\ud83d\ude10",
+            "\ud83d\ude22"
+        ]
+    },
+    {
+        "text": "Tom feels sad because he lost his toy. (variation 19)",
+        "correct": "\ud83d\ude22",
+        "incorrect": [
+            "\ud83d\ude0a",
+            "\ud83d\ude10"
+        ]
+    },
+    {
+        "text": "The children were thrilled to play in the park all afternoon. (variation 19)",
+        "correct": "\ud83d\ude0a",
+        "incorrect": [
+            "\ud83d\ude10",
+            "\ud83d\ude22"
+        ]
+    },
+    {
+        "text": "Susan was disappointed when her favorite book was out of stock. (variation 19)",
+        "correct": "\ud83d\ude22",
+        "incorrect": [
+            "\ud83d\ude20",
+            "\ud83d\ude0a"
+        ]
+    },
+    {
+        "text": "David\u2019s face lit up with joy as he received the promotion at work. (variation 19)",
+        "correct": "\ud83d\ude0a",
+        "incorrect": [
+            "\ud83d\ude20",
+            "\ud83d\ude10"
+        ]
+    },
+    {
+        "text": "Rachel was nervous about giving her first presentation at the conference. (variation 19)",
+        "correct": "\ud83d\ude10",
+        "incorrect": [
+            "\ud83d\ude0a",
+            "\ud83d\ude22"
+        ]
+    },
+    {
+        "text": "John smiled, but there was a hint of sadness in his eyes as he said goodbye. (variation 19)",
+        "correct": "\ud83d\ude22",
+        "incorrect": [
+            "\ud83d\ude0a",
+            "\ud83d\ude10"
+        ]
+    },
+    {
+        "text": "The team was exhausted but relieved after winning the final game. (variation 19)",
+        "correct": "\ud83d\ude0a",
+        "incorrect": [
+            "\ud83d\ude10",
+            "\ud83d\ude22"
+        ]
+    },
+    {
+        "text": "Emily\u2019s laughter masked her deep sense of loneliness at the party. (variation 19)",
+        "correct": "\ud83d\ude22",
+        "incorrect": [
+            "\ud83d\ude0a",
+            "\ud83d\ude10"
+        ]
+    },
+    {
+        "text": "The artist looked at his masterpiece with pride, though he felt something was still missing. (variation 19)",
+        "correct": "\ud83d\ude10",
+        "incorrect": [
+            "\ud83d\ude0a",
+            "\ud83d\ude20"
+        ]
+    },
+    {
+        "text": "Anna is excited to open her gifts. (variation 20)",
+        "correct": "\ud83d\ude0a",
+        "incorrect": [
+            "\ud83d\ude10",
+            "\ud83d\ude22"
+        ]
+    },
+    {
+        "text": "Tom feels sad because he lost his toy. (variation 20)",
+        "correct": "\ud83d\ude22",
+        "incorrect": [
+            "\ud83d\ude0a",
+            "\ud83d\ude10"
+        ]
+    },
+    {
+        "text": "The children were thrilled to play in the park all afternoon. (variation 20)",
+        "correct": "\ud83d\ude0a",
+        "incorrect": [
+            "\ud83d\ude10",
+            "\ud83d\ude22"
+        ]
+    },
+    {
+        "text": "Susan was disappointed when her favorite book was out of stock. (variation 20)",
+        "correct": "\ud83d\ude22",
+        "incorrect": [
+            "\ud83d\ude20",
+            "\ud83d\ude0a"
+        ]
+    },
+    {
+        "text": "David\u2019s face lit up with joy as he received the promotion at work. (variation 20)",
+        "correct": "\ud83d\ude0a",
+        "incorrect": [
+            "\ud83d\ude20",
+            "\ud83d\ude10"
+        ]
+    },
+    {
+        "text": "Rachel was nervous about giving her first presentation at the conference. (variation 20)",
+        "correct": "\ud83d\ude10",
+        "incorrect": [
+            "\ud83d\ude0a",
+            "\ud83d\ude22"
+        ]
+    },
+    {
+        "text": "John smiled, but there was a hint of sadness in his eyes as he said goodbye. (variation 20)",
+        "correct": "\ud83d\ude22",
+        "incorrect": [
+            "\ud83d\ude0a",
+            "\ud83d\ude10"
+        ]
+    },
+    {
+        "text": "The team was exhausted but relieved after winning the final game. (variation 20)",
+        "correct": "\ud83d\ude0a",
+        "incorrect": [
+            "\ud83d\ude10",
+            "\ud83d\ude22"
+        ]
+    },
+    {
+        "text": "Emily\u2019s laughter masked her deep sense of loneliness at the party. (variation 20)",
+        "correct": "\ud83d\ude22",
+        "incorrect": [
+            "\ud83d\ude0a",
+            "\ud83d\ude10"
+        ]
+    },
+    {
+        "text": "The artist looked at his masterpiece with pride, though he felt something was still missing. (variation 20)",
+        "correct": "\ud83d\ude10",
+        "incorrect": [
+            "\ud83d\ude0a",
+            "\ud83d\ude20"
+        ]
+    }
+]
