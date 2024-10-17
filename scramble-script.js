@@ -1,9 +1,9 @@
 const verbs = [
-  { word: "Eating", image: "img/eating.png" },
-  { word: "Playing", image: "img/playing.jpg" },
-  { word: "Shower", image: "img/bath.jpg" },
-  { word: "Singing", image: "img/singing.png" },
-  { word: "Praying", image: "img/praying.png" }
+  { word: "Eating", image: "https://cdn.prod.website-files.com/6710748ed0bc60ad2358fb6d/67119d9eceadb21aba42011f_eating.png" },
+  { word: "Playing", image: "https://cdn.prod.website-files.com/6710748ed0bc60ad2358fb6d/67119d9d8c3a2db4873beb18_playing.jpg" },
+  { word: "Shower", image: "https://cdn.prod.website-files.com/6710748ed0bc60ad2358fb6d/67119d9fb1f7f09e76d86eb1_bath.jpg" },
+  { word: "Singing", image: "https://cdn.prod.website-files.com/6710748ed0bc60ad2358fb6d/67119d9e18fe47469939f91d_singing.png" },
+  { word: "Praying", image: "https://cdn.prod.website-files.com/6710748ed0bc60ad2358fb6d/67119d9d8c3a2db4873beb3a_praying.png" }
 ];
 
 let currentWordIndex = 0;
