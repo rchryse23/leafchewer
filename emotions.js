@@ -6,7 +6,7 @@ let mugGameCount = 0;
 // Function to load JSON data from the hosted file
 async function loadSentencesFromJson() {
   try {
-    const response = await fetch('https://raw.githubusercontent.com/yourusername/yourrepo/main/sentences_200.json'); // Replace with your actual GitHub URL
+    const response = await fetch('https://rchryse23.github.io/leafchewer/sentences_200.json'); // Replace with your actual GitHub URL
     const sentences = await response.json();
     return sentences;
   } catch (error) {
