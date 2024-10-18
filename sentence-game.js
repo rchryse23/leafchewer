@@ -21,10 +21,19 @@ let timeRemaining = 25;
 const results = [];
 let ghostElement = null; // Temporary element for visual feedback
 
+// Shuffle function to randomize sentences
+function shuffleArray(array) {
+  for (let i = array.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [array[i], array[j]] = [array[j], array[i]];
+  }
+}
+
 function startGame() {
   currentSentenceIndex = 0;
   score = 0;
   results.length = 0;
+  shuffleArray(sentences); // Shuffle sentences before starting
   hideModal();
   loadSentence(sentences[currentSentenceIndex]);
   startTimer();
