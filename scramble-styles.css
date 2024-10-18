@@ -74,6 +74,7 @@ button:hover {
   padding: 20px;
   z-index: 10;
   display: none;
+  margin-bottom: 1.5rem;
 }
 
 .modal.show {
